@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitmhn&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitmhn) 
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitmhn) -->
 
 ![Profile views since Nov 22](https://komarev.com/ghpvc/?username=ankitmhn)
 <!--
